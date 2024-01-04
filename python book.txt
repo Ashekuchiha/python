@@ -1,2 +1,2 @@
 alt+shift+c=all changes
-ctrl+d
+ctrl+d  
