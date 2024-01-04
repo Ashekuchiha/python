@@ -1,2 +1,4 @@
 alt+shift+c=all changes
 ctrl+d  
+
+all string method = https://www.w3schools.com/python/python_ref_string.asp
