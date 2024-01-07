@@ -1,0 +1,3 @@
+ashik,24
+alif,22
+shakil,30
