@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b574665f-ca4e-4d16-9038-d8351a2703bc" name="Changes" comment="learn string and make calculetor">
-      <change afterPath="$PROJECT_DIR$/../cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/inhertance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/operator overloding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/love.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/practice.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findSongs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/inhertance.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/inhertance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,30 +40,32 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.calculetor.executor": "Run",
-    "Python.combo dictionary.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.errorHandeling.executor": "Run",
-    "Python.findSongs.executor": "Run",
-    "Python.inhertance.executor": "Run",
-    "Python.library.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.loop.executor": "Run",
-    "Python.package.executor": "Run",
-    "Python.pattern.executor": "Run",
-    "Python.stringMethod.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/shakil/AppData/Local/Programs/Python/Python311/python.exe",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.calculetor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combo dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.errorHandeling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findSongs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inhertance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.love.executor&quot;: &quot;Run&quot;,
+    &quot;Python.package.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shakil/AppData/Local/Programs/Python/Python311/python.exe&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.inhertance">
-    <configuration name="calculetor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculetor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="love" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/library.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/love.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,10 +178,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.inhertance" />
+        <item itemvalue="Python.love" />
+        <item itemvalue="Python.d" />
         <item itemvalue="Python.findSongs" />
         <item itemvalue="Python.package" />
-        <item itemvalue="Python.calculetor" />
-        <item itemvalue="Python.library" />
       </list>
     </recent_temporary>
   </component>
